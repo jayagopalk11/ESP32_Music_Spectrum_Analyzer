@@ -5,7 +5,7 @@ This project is a ESP32 based Music spectrum analyzer which makes used Arduino F
 
 Inspired by Scott Manley's spectrum analyzer that uses a different microphone and an RGB LED array
 
-![Alt text]/blob/master/IMG_20210912_120144.jpg?raw=true "Output")
+![Output](https://github.com/jayagopalk11/ESP32_Music_Spectrum_Analyzer/blob/master/IMG_20210912_120144.jpg?raw=true "Output")
 
 
 ## License
